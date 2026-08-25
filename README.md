@@ -107,10 +107,10 @@ The use of a representative block creates a specific verification question:
 What makes this block representative?
 If an entire benchmark consists of a large workload but the public verification surface exposes only one selected block, an independent researcher cannot determine whether that block is statistically representative without access to the underlying distribution.
 
-> **Key Observation**
-> The public verification surface exposes a selected benchmark block.
-> The benchmark claim however refers to system throughput.
-> Those are not equivalent claims.
+ **Key Observation**
+ The public verification surface exposes a selected benchmark block.
+ The benchmark claim however refers to system throughput.
+ Those are not equivalent claims.
 
 For example, an external verifier would need to understand:
 * how many blocks were produced;
@@ -139,6 +139,7 @@ The requested artifacts included:
 A formal bounty claim and technical assessment were submitted based on Psy Protocol's own published benchmark materials, public statements, public responses and publicly accessible data.
 
 ![Formal bounty claim](screenshot_6_1.png)
+
 *Formal public bounty claim (April 20, 2026): structured assessment submitted under Psy Protocol’s published “verifiable by anyone” bounty terms.*
 
 ---
@@ -246,10 +247,10 @@ It is the publication of the missing reproducibility artifacts and an independen
 **A proof is not automatically a benchmark.**
 **And “verifiable by anyone” should mean exactly that.**
 
-> This assessment can be invalidated.
-> The required condition is simple:
-> **Publish enough information for an independent third party to reproduce the benchmark and obtain comparable results.**
-> Until then, the benchmark remains publicly visible but not independently reproducible.
+ This assessment can be invalidated.
+ The required condition is simple:
+ **Publish enough information for an independent third party to reproduce the benchmark and obtain comparable results.**
+ Until then, the benchmark remains publicly visible but not independently reproducible.
 
 ---
 **OxSergey Research**  
