@@ -219,7 +219,7 @@ The conclusion is therefore:
 
 ## 11. The Standard
 This case illustrates a broader principle for high-performance blockchain benchmarks:
-**A benchmark should not become independently verifiable merely because its result is published on-chain.**
+**A benchmark does not become independently reproducible simply because its result, proof, or benchmark statistics are publicly visible.**
 For a result to be independently reproducible, the public artifacts must allow an external party to reconstruct the experiment, not merely inspect its output.
 A practical reproducibility package should allow a third party to answer:
 1. What exactly was executed?
