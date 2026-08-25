@@ -73,9 +73,11 @@ The specific missing elements requested during the investigation included:
 * measurable criteria showing why the selected block was representative.
 
 ![Public finding March 21](screenshot_3_1.png)
+
 *Public finding (March 21, 2026): no clear path for an external observer to independently reconstruct the benchmark end-to-end.*
 
 ![Public finding March 24](screenshot_3_2.png)
+
 *Public finding (March 24, 2026): the 521k TPS figure is based on a single selected block, with no published full dataset or distribution statistics.*
 
 The issue is therefore not simply “more documentation would be nice.”
