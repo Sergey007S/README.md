@@ -35,9 +35,11 @@ The relevant question is:
 That is the standard I attempted to apply.
 
 ![Psy Protocol public statement](screenshot_1_1.png)
+
 *Psy Protocol public statement: independent verification + US$100,000 bounty*
 
 ![Official bounty announcement](screenshot_1_2.png)
+
 *Official $100,000 bounty announcement tied to the 521,000 TPS demonstration*
 
 ---
